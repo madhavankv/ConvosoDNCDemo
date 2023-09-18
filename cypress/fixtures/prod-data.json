@@ -1,0 +1,14 @@
+{
+    "urlText":["/dashboard#/Index","manage#/DncManage","upload#/DncUploading"],
+    "closeText":"Close",
+    "callcenterText":"Call Center",
+    "dncText":"DNC",
+    "uploadDncText":"Upload DNC",
+    "listNumbers":["8884568889","8884568888","8884568887","8884568886","8884568885",
+                   "8884568884","8884568883","8884568882","8884568881","8884568880"],
+     "newNumbers":["8884567777"] ,            
+    "country":["+1 United States"],
+    "campaign":["Global DNC List","Campaign","Global DNC","Automation Campaign","string:5066"],
+    "search":["Search "]
+                 
+}

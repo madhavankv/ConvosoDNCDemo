@@ -1,0 +1,8 @@
+node_modules
+cypress.env.json
+package-lock.json
+results
+mochawesome.html
+mochawesome.json
+downloads
+screenshots
