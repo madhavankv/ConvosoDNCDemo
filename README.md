@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Test.assignment is kept in fixture folder
 
 Login credentials are placed in "cypress.env.json" file which is not added in git
